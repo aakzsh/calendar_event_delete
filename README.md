@@ -6,19 +6,6 @@ This is the sample code for deleting the calendar events using Nylas Python SDK 
 ### System Dependencies
 - Python v3.x
 
-### Gather the environment variables
-
-
-# python-email-delete
-
-This sample will show you to easily delete an email with the Nylas Python SDK.
-
-## Setup
-
-### System dependencies
-
-- Python v3.x
-
 ### Gather environment variables
 
 You'll need the following values:
